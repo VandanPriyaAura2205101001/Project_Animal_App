@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\layout_custom_toast.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\layout_custom_toast.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\item_service.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\item_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\layout_simple_success.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\layout_simple_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\fragment_profile.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\activity_edit_profile.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\activity_edit_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\dialog_change_password.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\dialog_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\item_service_enhanced.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\item_service_enhanced.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.animalapps.app-mergeDebugResources-4:/layout/fragment_profile.xml",
+        "source": "com.example.animalapps.app-main-7:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\fragment_bookings.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\fragment_bookings.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\layout_success_notification.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\layout_success_notification.xml"
+    },
+    {
+        "merged": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-mergeDebugResources-4:\\layout\\activity_register.xml",
+        "source": "C:\\Users\\priav\\.gradle\\daemon\\8.13\\com.example.animalapps.app-main-7:\\layout\\activity_register.xml"
+    }
+]
